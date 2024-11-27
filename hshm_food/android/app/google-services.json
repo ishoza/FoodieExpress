@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394889878051",
+    "project_id": "hshmfood",
+    "storage_bucket": "hshmfood.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394889878051:android:ac7031f986535f7154af96",
+        "android_client_info": {
+          "package_name": "com.example.hshmfoodapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKA0pWeMxlABYGlj3IFU6z9QdyBXp3EvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
