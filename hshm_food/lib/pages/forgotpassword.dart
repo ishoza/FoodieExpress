@@ -97,7 +97,7 @@ class _ForgotpasswordState extends State<Forgotpassword> {
                                 ),
                               )),
                           SizedBox(
-                            height: 40.0,
+                            height: 20.0,
                           ),
                           GestureDetector(
                             onTap: () {
